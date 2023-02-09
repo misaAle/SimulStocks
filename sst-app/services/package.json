@@ -4,7 +4,9 @@
   "type": "module",
   "scripts": {},
   "dependencies": {
-    "aws-sdk": "^2.1306.0"
+    "aws-sdk": "^2.1310.0",
+    "kysely-data-api": "^0.1.4",
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "@types/aws-lambda": "^8.10.110"
